@@ -1,6 +1,6 @@
 # brut
 
-Libreria de componentes brutalistas en React + Vite, lista para publicar en npm.
+Libreria de componentes brutalistas en React
 
 ## Instalar
 
@@ -36,8 +36,3 @@ export function Example() {
 - `npm run dev`
 - `npm run build`
 - `npm run lint`
-
-## Publicacion
-
-1. Asegura que `npm run build` termine sin errores.
-2. Publica con `npm publish`.
